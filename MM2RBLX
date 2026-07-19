@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/NrFtSLaADcHaz4zi/raw"))()
+loadstring(game:HttpGet("https://codeberg.org/dstr-dev/mm2test/raw/branch/main/proeru/obfuscated.lua%20%2831%29.txt"))()
